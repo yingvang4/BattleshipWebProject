@@ -1178,3 +1178,15 @@ java.lang.NullPointerException
 	at org.eclipse.oomph.setup.internal.core.util.ResourceMirror$LoadJob.perform(ResourceMirror.java:246)
 	at org.eclipse.oomph.util.WorkerPool$Worker.run(WorkerPool.java:428)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-26 06:50:51.884
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-26 06:50:51.892
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-26 06:50:52.048
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-26 06:50:52.055
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
